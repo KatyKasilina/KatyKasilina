@@ -1,12 +1,11 @@
-### Hi there! Name's Dmitry, nice to meet you!
+### Hi there! I'm Katy, nice to meet you! 🦄
 
 I am:
-* 🎓 [MADE Big Data Academy](https://data.vk.company/) grad;
-* 🔭 always happy to chat about... well, anything!
+* [MADE Big Data Academy](https://data.vk.company/) grad 🎓
+* currently working on creating timeseries pet project 🕰️
+
 
 ![](https://komarev.com/ghpvc/?username=KatyKasilina&label=Magic+Counter&color=blue&style=plastic)
-
-I’m currently working on creating timeseries pet project
 
 <!--
 **KatyKasilina/KatyKasilina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
