@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Katy
-
 I’m currently working on creating timeseries pet project
 
 <!--
