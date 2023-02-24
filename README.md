@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Katy
+
+I’m currently working on creating timeseries pet project
+
 <!--
 **KatyKasilina/KatyKasilina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
