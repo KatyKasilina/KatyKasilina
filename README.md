@@ -2,7 +2,7 @@
 
 I am:
 * [MADE Big Data Academy](https://data.vk.company/) grad 🎓
-* currently working on creating timeseries pet project 🕰️
+* Senior DS in Epam 🕰️
 
 
 ![](https://komarev.com/ghpvc/?username=KatyKasilina&label=Magic+Counter&color=blue&style=plastic)
